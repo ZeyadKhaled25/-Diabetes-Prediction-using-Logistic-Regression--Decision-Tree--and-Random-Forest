@@ -65,10 +65,4 @@ Visualizations (heatmaps) are used to better understand the confusion matrices.
   - **GridSearchCV** is effective in boosting model accuracy when tuned well.
   - **Feature Scaling** benefits models like Logistic Regression more than tree-based models.
 
----
 
-## 📁 How to Run the Notebook
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/diabetes-classification.git
